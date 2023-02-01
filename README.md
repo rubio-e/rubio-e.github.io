@@ -1,13 +1,3 @@
----
-title: "Introducción a R"
-output: learnr::tutorial
-runtime: shiny_prerendered
----
-```{r setup, include=FALSE}
-library(learnr)
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Instalación
 
 ### ¿Que es R?
